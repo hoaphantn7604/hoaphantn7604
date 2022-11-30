@@ -1,6 +1,10 @@
 [<img src="https://github.com/hoaphantn7604/file-upload/blob/master/document/profile/hoa_phan_dev_banner.png">](https://www.youtube.com/channel/UClwDARgTpIwOOugYtgEW1Uw?sub_confirmation=1)
 
-### Please Subscribe My Channel! ✨
+My name is Hoa Phan, born in 1993.
+At the end of 2015, I started to work in Mobile programming when I remember most of the applications were developed in Objective C and Java, until 2017 when React Native started to bloom in Vietnam and I also try and Build my first application, so far I have more than 5 years of experience in React Native, and I also have more than 1 year of experience working with Python Django.
+
+### Youtube Channel! ✨
+https://www.youtube.com/channel/UClwDARgTpIwOOugYtgEW1Uw?sub_confirmation=1
 
 <!--
 **hoaphantn7604/hoaphantn7604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
