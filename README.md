@@ -4,7 +4,7 @@ My name is Hoa Phan!
 As a Senior Developer with 7 years of experience in the area of software development for mobile devices. Solid
 experience of mobile application development with React Native.
 
-### Youtube Channel! ✨
+### Youtube Channel ✨
 [https://www.youtube.com/@hoaphandev](https://www.youtube.com/channel/UClwDARgTpIwOOugYtgEW1Uw?sub_confirmation=1)
 
 <!--
