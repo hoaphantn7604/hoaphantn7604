@@ -5,7 +5,7 @@ As a Senior Developer with 7 years of experience in the area of software develop
 experience of mobile application development with React Native.
 
 ### Youtube Channel ✨
-[https://www.youtube.com/@devphanchannel](https://www.youtube.com/channel/UCvyGxp11RW4IDTOx-QAjU7w?sub_confirmation=1)
+[https://www.youtube.com/@johnnytechvlog](https://www.youtube.com/channel/UCvyGxp11RW4IDTOx-QAjU7w?sub_confirmation=1)
 
 <!--
 **hoaphantn7604/hoaphantn7604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
